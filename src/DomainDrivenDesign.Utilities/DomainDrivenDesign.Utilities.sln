@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainDrivenDesign.Utilities", "DomainDrivenDesign.Utilities\DomainDrivenDesign.Utilities.csproj", "{56EB48E7-1FB0-4FC1-ADFB-95197E44264D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56EB48E7-1FB0-4FC1-ADFB-95197E44264D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EB48E7-1FB0-4FC1-ADFB-95197E44264D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EB48E7-1FB0-4FC1-ADFB-95197E44264D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EB48E7-1FB0-4FC1-ADFB-95197E44264D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {623C1553-D5E5-4191-996B-5C6D8E6B768B}
+	EndGlobalSection
+EndGlobal
